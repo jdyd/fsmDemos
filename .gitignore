@@ -1,0 +1,9 @@
+.project
+.iml
+.classpath
+.settings/
+target/
+bower_components/
+.idea/*
+.idea*
+\.idea*
